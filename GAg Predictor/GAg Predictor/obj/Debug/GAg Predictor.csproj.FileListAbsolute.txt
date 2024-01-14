@@ -1,0 +1,11 @@
+C:\Users\gbs07213\Desktop\Razvi\GAg Predictor\GAg Predictor\bin\Debug\GAg Predictor.exe.config
+C:\Users\gbs07213\Desktop\Razvi\GAg Predictor\GAg Predictor\bin\Debug\GAg Predictor.exe
+C:\Users\gbs07213\Desktop\Razvi\GAg Predictor\GAg Predictor\bin\Debug\GAg Predictor.pdb
+C:\Users\gbs07213\Desktop\Razvi\GAg Predictor\GAg Predictor\obj\Debug\GAg Predictor.csproj.AssemblyReference.cache
+C:\Users\gbs07213\Desktop\Razvi\GAg Predictor\GAg Predictor\obj\Debug\GAg_Predictor.Properties.Resources.resources
+C:\Users\gbs07213\Desktop\Razvi\GAg Predictor\GAg Predictor\obj\Debug\GAg Predictor.csproj.GenerateResource.cache
+C:\Users\gbs07213\Desktop\Razvi\GAg Predictor\GAg Predictor\obj\Debug\GAg Predictor.csproj.CoreCompileInputs.cache
+C:\Users\gbs07213\Desktop\Razvi\GAg Predictor\GAg Predictor\obj\Debug\GAg Predictor.exe
+C:\Users\gbs07213\Desktop\Razvi\GAg Predictor\GAg Predictor\obj\Debug\GAg Predictor.pdb
+C:\Users\gbs07213\Desktop\Razvi\GAg Predictor\GAg Predictor\obj\Debug\GAg_Predictor.SimulatorForm.resources
+C:\Users\gbs07213\Desktop\Razvi\GAg Predictor\GAg Predictor\obj\Debug\GAg_Predictor.outForm.resources
